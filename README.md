@@ -152,4 +152,4 @@ How it’s applied:
   DataAccessFactory.TokenData();         // returns IRepo<Token, string, Token>
 
 DataAccessFactory hides the concrete repo classes (UserRepo, ChatMessageRepo, etc.) behind interfaces (IRepo, IAuth, IChatMessageRepo).
-````
+
