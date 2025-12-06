@@ -1,0 +1,16 @@
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\BLL.dll
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\BLL.pdb
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\AutoMapper.dll
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\DAL.dll
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\EntityFramework.dll
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\DAL.pdb
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\DAL.dll.config
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\AutoMapper.xml
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\EntityFramework.xml
+D:\.netchat with api\ChatApiApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\.netchat with api\ChatApiApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\.netchat with api\ChatApiApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\.netchat with api\ChatApiApp\BLL\obj\Debug\BLL.dll
+D:\.netchat with api\ChatApiApp\BLL\obj\Debug\BLL.pdb
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\.netchat with api\ChatApiApp\BLL\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,15 @@
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\DAL.dll.config
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\DAL.dll
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\DAL.pdb
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\EntityFramework.dll
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\EntityFramework.xml
+D:\.netchat with api\ChatApiApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.dll
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.pdb
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.Migrations.Intially.resources
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\.netchat with api\ChatApiApp\DAL\obj\Debug\DAL.Migrations.addTestValue.resources
