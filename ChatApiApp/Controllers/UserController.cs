@@ -1,6 +1,7 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
 using ChatApiApp.Auth;
+using ChatApiApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -56,12 +57,7 @@ namespace ChatApiApp.Controllers
         }
 
         // model for create/register (includes password)
-        public class RegisterModel
-        {
-            public string UserName { get; set; }
-            public string Name { get; set; }
-            public string Password { get; set; }
-        }
+        
 
         // POST api/user/create
         [HttpPost]

@@ -5,11 +5,13 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace ChatApiApp.Controllers
 {
     public class LogoutController : ApiController
     {
+        [EnableCors("*", "*", "*")]
         [HttpPost]
         [Route(("api/logout"))]
         public HttpResponseMessage Post()
